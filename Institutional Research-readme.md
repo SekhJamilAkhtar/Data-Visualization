@@ -82,5 +82,6 @@ This page focuses on the comparative analysis of institutions across research ca
 ## Conclusion
 In the realm of academia's ever-evolving landscape, the Institutional Research Excellence Dashboard emerges as a potent catalyst, propelling institutions beyond conventional boundaries to harness their research potential. This dynamic tool transcends data visualization, empowering institutions to strategize astutely, foster collaborations, and lead in pioneering research realms. By deciphering emerging trends, pinpointing strengths, and addressing gaps, institutions gain the insights needed for informed decisions, elevating their position in the pursuit of groundbreaking discoveries. The dashboard serves as a transformative gateway, bridging raw data with actionable insights, enabling institutions to foster innovation, forge interdisciplinary partnerships, and reshape the trajectory of academic advancement.
 
-**Prepared By:** Sekh Jamil Akhtar
+**Prepared By:** Sekh Jamil Akhtar  
 **Dataset:** institutions_sci_scores_per_institute
+
