@@ -52,4 +52,4 @@ The dashboard comprises several visualizations that help users navigate the data
 The "Institution Insights Dashboard" emerges as a dynamic medium where interactive visualizations seamlessly integrate with intuitive slicers, sparking an immersive and personalized exploration of institutional performance, research categories, and geographical distributions. By harmoniously fusing data-driven insights with user-controlled navigation, this medium empowers users to uncover intricate correlations, patterns, and trends, fostering a deeper understanding of the dataset. Through the dashboard's dynamic medium, users embark on a transformative journey of exploration, where data-driven decisions are not just facilitated, but elevated to a realm of informed choices guided by personalized insights.
 
 **Prepared By:** Sekh Jamil Akhtar  
-**Dataset:** institutions_sci_scores_per_institute
+**Dataset:** institutions_sic_scores_per_institute
